@@ -1,0 +1,868 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "catxcat1",
+      "image": "file:///android_asset/image/wallxwall1.webp"
+
+    },
+    {
+      "id": 2,
+      "name_category": "catxcat2",
+      "image": "file:///android_asset/image/wallxwall50.webp"
+
+    },
+    {
+      "id": 3,
+      "name_category": "catxcat3",
+      "image": "file:///android_asset/image/wallxwall100.webp"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall1.webp"
+    },
+    {
+      "id":2,
+      "name_category": "catxcat1",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall2.webp"
+    },
+    {
+      "id":3,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall3.webp"
+    },
+    {
+      "id":4,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall4.webp"
+    },
+    {
+      "id":5,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall5.webp"
+    },
+    {
+      "id":6,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall6.webp"
+    },
+    {
+      "id":7,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall7.webp"
+    },
+    {
+      "id":8,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall8.webp"
+    },
+    {
+      "id":9,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall9.webp"
+    },
+    {
+      "id":10,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall10.webp"
+    },
+	{
+      "id":11,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall11.webp"
+    },
+    {
+      "id":12,
+      "name_category": "catxcat1",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall12.webp"
+    },
+    {
+      "id":13,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall13.webp"
+    },
+    {
+      "id":14,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall14.webp"
+    },
+    {
+      "id":15,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall15.webp"
+    },
+    {
+      "id":16,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall16.webp"
+    },
+    {
+      "id":17,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall17.webp"
+    },
+    {
+      "id":18,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall18.webp"
+    },
+    {
+      "id":19,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall19.webp"
+    },
+    {
+      "id":20,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall20.webp"
+    },
+	{
+      "id":21,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall21.webp"
+    },
+    {
+      "id":22,
+      "name_category": "catxcat1",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall22.webp"
+    },
+    {
+      "id":23,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall23.webp"
+    },
+    {
+      "id":24,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall24.webp"
+    },
+    {
+      "id":25,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall25.webp"
+    },
+    {
+      "id":26,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall26.webp"
+    },
+    {
+      "id":27,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall27.webp"
+    },
+    {
+      "id":28,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall28.webp"
+    },
+    {
+      "id":29,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall29.webp"
+    },
+    {
+      "id":30,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall30.webp"
+    },
+	{
+      "id":31,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall31.webp"
+    },
+    {
+      "id":32,
+      "name_category": "catxcat1",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall32.webp"
+    },
+    {
+      "id":33,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall33.webp"
+    },
+    {
+      "id":34,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall34.webp"
+    },
+    {
+      "id":35,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall35.webp"
+    },
+    {
+      "id":36,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall36.webp"
+    },
+    {
+      "id":37,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall37.webp"
+    },
+    {
+      "id":38,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall38.webp"
+    },
+    {
+      "id":39,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall39.webp"
+    },
+    {
+      "id":40,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall40.webp"
+    },
+	{
+      "id":41,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall41.webp"
+    },
+    {
+      "id":42,
+      "name_category": "catxcat1",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall42.webp"
+    },
+    {
+      "id":43,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall43.webp"
+    },
+    {
+      "id":44,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall44.webp"
+    },
+    {
+      "id":45,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall45.webp"
+    },
+    {
+      "id":46,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall46.webp"
+    },
+    {
+      "id":47,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall47.webp"
+    },
+    {
+      "id":48,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall48.webp"
+    },
+    {
+      "id":49,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall49.webp"
+    },
+    {
+      "id":50,
+      "name_category": "catxcat1",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall50.webp"
+    },
+	{
+      "id":51,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall51.webp"
+    },
+    {
+      "id":52,
+      "name_category": "catxcat2",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall52.webp"
+    },
+    {
+      "id":53,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall53.webp"
+    },
+    {
+      "id":54,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall54.webp"
+    },
+    {
+      "id":55,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall55.webp"
+    },
+    {
+      "id":56,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall56.webp"
+    },
+    {
+      "id":57,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall57.webp"
+    },
+    {
+      "id":58,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall58.webp"
+    },
+    {
+      "id":59,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall59.webp"
+    },
+    {
+      "id":60,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall60.webp"
+    },
+	{
+      "id":61,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall61.webp"
+    },
+    {
+      "id":62,
+      "name_category": "catxcat2",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall62.webp"
+    },
+    {
+      "id":63,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall63.webp"
+    },
+    {
+      "id":64,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall64.webp"
+    },
+    {
+      "id":65,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall65.webp"
+    },
+    {
+      "id":66,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall66.webp"
+    },
+    {
+      "id":67,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall67.webp"
+    },
+    {
+      "id":68,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall68.webp"
+    },
+    {
+      "id":69,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall69.webp"
+    },
+    {
+      "id":70,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall70.webp"
+    },
+	{
+      "id":71,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall71.webp"
+    },
+    {
+      "id":72,
+      "name_category": "catxcat2",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall72.webp"
+    },
+    {
+      "id":73,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall73.webp"
+    },
+    {
+      "id":74,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall74.webp"
+    },
+    {
+      "id":75,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall75.webp"
+    },
+    {
+      "id":76,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall76.webp"
+    },
+    {
+      "id":77,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall77.webp"
+    },
+    {
+      "id":78,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall78.webp"
+    },
+    {
+      "id":79,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall79.webp"
+    },
+    {
+      "id":80,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall80.webp"
+    },
+	{
+      "id":81,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall81.webp"
+    },
+    {
+      "id":82,
+      "name_category": "catxcat2",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall82.webp"
+    },
+    {
+      "id":83,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall83.webp"
+    },
+    {
+      "id":84,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall84.webp"
+    },
+    {
+      "id":85,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall85.webp"
+    },
+    {
+      "id":86,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall86.webp"
+    },
+    {
+      "id":87,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall87.webp"
+    },
+    {
+      "id":88,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall88.webp"
+    },
+    {
+      "id":89,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall89.webp"
+    },
+    {
+      "id":90,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall90.webp"
+    },
+	{
+      "id":91,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall91.webp"
+    },
+    {
+      "id":92,
+      "name_category": "catxcat2",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall92.webp"
+    },
+    {
+      "id":93,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall93.webp"
+    },
+    {
+      "id":94,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall94.webp"
+    },
+    {
+      "id":95,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall95.webp"
+    },
+    {
+      "id":96,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall96.webp"
+    },
+    {
+      "id":97,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall97.webp"
+    },
+    {
+      "id":98,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall98.webp"
+    },
+    {
+      "id":99,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall99.webp"
+    },
+    {
+      "id":100,
+      "name_category": "catxcat2",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall100.webp"
+    },
+	{
+      "id":101,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall101.webp"
+    },
+    {
+      "id":102,
+      "name_category": "catxcat3",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall102.webp"
+    },
+    {
+      "id":103,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall103.webp"
+    },
+    {
+      "id":104,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall104.webp"
+    },
+    {
+      "id":105,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall105.webp"
+    },
+    {
+      "id":106,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall106.webp"
+    },
+    {
+      "id":107,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall107.webp"
+    },
+    {
+      "id":108,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall108.webp"
+    },
+    {
+      "id":109,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall109.webp"
+    },
+    {
+      "id":110,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall110.webp"
+    },
+	{
+      "id":111,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall111.webp"
+    },
+    {
+      "id":112,
+      "name_category": "catxcat3",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall112.webp"
+    },
+    {
+      "id":113,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall113.webp"
+    },
+    {
+      "id":114,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall114.webp"
+    },
+    {
+      "id":115,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall115.webp"
+    },
+    {
+      "id":116,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall116.webp"
+    },
+    {
+      "id":117,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall117.webp"
+    },
+    {
+      "id":118,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall118.webp"
+    },
+    {
+      "id":119,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall119.webp"
+    },
+    {
+      "id":120,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall120.webp"
+    },
+	{
+      "id":121,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall121.webp"
+    },
+    {
+      "id":122,
+      "name_category": "catxcat3",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall122.webp"
+    },
+    {
+      "id":123,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall123.webp"
+    },
+    {
+      "id":124,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall124.webp"
+    },
+    {
+      "id":125,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall125.webp"
+    },
+    {
+      "id":126,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall126.webp"
+    },
+    {
+      "id":127,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall127.webp"
+    },
+    {
+      "id":128,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall128.webp"
+    },
+    {
+      "id":129,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall129.webp"
+    },
+    {
+      "id":130,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall130.webp"
+    },
+	{
+      "id":131,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall131.webp"
+    },
+    {
+      "id":132,
+      "name_category": "catxcat3",
+      "title": "judulxjudul",
+      "image": "file:///android_asset/image/wallxwall132.webp"
+    },
+    {
+      "id":133,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall133.webp"
+    },
+    {
+      "id":134,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall134.webp"
+    },
+    {
+      "id":135,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall135.webp"
+    },
+    {
+      "id":136,
+      "name_category": "catxcat3",
+      "title":"judulxjudul",
+      "image":"file:///android_asset/image/wallxwall136.webp"
+    }
+	
+  ]
+}
