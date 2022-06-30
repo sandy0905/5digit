@@ -1,0 +1,553 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 25,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Twice Song",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Twice Song",
+      "title": "24 7",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/01247.mp3",
+      "duration": "228",
+      "lyrics": "" 
+	},
+    {
+      "id": 2,
+      "name_category": "Twice Song",
+      "title": "I Cant Stop Me",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/02ICantStopMe.mp3",
+      "duration": "220",
+      "lyrics": "" 
+	},
+    {
+      "id": 3,
+      "name_category": "Twice Song",
+      "title": "BDZ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/03BDZ.mp3",
+      "duration": "373",
+      "lyrics": "" 
+	},
+    {
+      "id": 4,
+      "name_category": "Twice Song",
+      "title": "Be As One",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/04BeAsOne.mp3",
+      "duration": "280",
+      "lyrics": "" 
+	},
+    {
+      "id": 5,
+      "name_category": "Twice Song",
+      "title": "Brand New girl",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/05BrandNewgirl.mp3",
+      "duration": "210",
+      "lyrics": "" 
+	},
+    {
+      "id": 6,
+      "name_category": "Twice Song",
+      "title": "Breakthrough",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/06Breakthrough.mp3",
+      "duration": "227",
+      "lyrics": "" 
+	},
+    {
+      "id": 7,
+      "name_category": "Twice Song",
+      "title": "Candy Boy",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/07CandyBoy.mp3",
+      "duration": "166",
+      "lyrics": "" 
+	},
+    {
+      "id": 8,
+      "name_category": "Twice Song",
+      "title": "Candy Pop",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/08CandyPop.mp3",
+      "duration": "265",
+      "lyrics": "" 
+	},
+    {
+      "id": 9,
+      "name_category": "Twice Song",
+      "title": "Cheer Up",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/09CheerUp.mp3",
+      "duration": "240",
+      "lyrics": "" 
+	},
+    {
+      "id": 10,
+      "name_category": "Twice Song",
+      "title": "Chillax",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/10Chillax.mp3",
+      "duration": "185",
+      "lyrics": "" 
+	},
+    {
+      "id": 11,
+      "name_category": "Twice Song",
+      "title": "Dance The Night Away",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/11DanceTheNightAway.mp3",
+      "duration": "249",
+      "lyrics": "" 
+	},
+    {
+      "id": 12,
+      "name_category": "Twice Song",
+      "title": "Dejavu",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/12Dejavu.mp3",
+      "duration": "206",
+      "lyrics": "" 
+	},
+    {
+      "id": 13,
+      "name_category": "Twice Song",
+      "title": "Ding Dong",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/13DingDong.mp3",
+      "duration": "212",
+      "lyrics": "" 
+	},
+    {
+      "id": 14,
+      "name_category": "Twice Song",
+      "title": "Do It Again",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/14DoItAgain.mp3",
+      "duration": "216",
+      "lyrics": "" 
+	},
+    {
+      "id": 15,
+      "name_category": "Twice Song",
+      "title": "Dont Give Up",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/15DontGiveUp.mp3",
+      "duration": "178",
+      "lyrics": "" 
+	},
+    {
+      "id": 16,
+      "name_category": "Twice Song",
+      "title": "Eye Eye Eyes",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/16EyeEyeEyes.mp3",
+      "duration": "189",
+      "lyrics": "" 
+	},
+    {
+      "id": 17,
+      "name_category": "Twice Song",
+      "title": "Fancy",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/17Fancy.mp3",
+      "duration": "218",
+      "lyrics": "" 
+	},
+    {
+      "id": 18,
+      "name_category": "Twice Song",
+      "title": "FFW",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/18FFW.mp3",
+      "duration": "227",
+      "lyrics": "" 
+	},
+    {
+      "id": 19,
+      "name_category": "Twice Song",
+      "title": "Happy Happy",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/19HappyHappy.mp3",
+      "duration": "207",
+      "lyrics": "" 
+	},
+    {
+      "id": 20,
+      "name_category": "Twice Song",
+      "title": "Headphone On",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/20HeadphoneOn.mp3",
+      "duration": "202",
+      "lyrics": "" 
+	},
+    {
+      "id": 21,
+      "name_category": "Twice Song",
+      "title": "Heart Shaker",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/21HeartShaker.mp3",
+      "duration": "192",
+      "lyrics": "" 
+	},
+    {
+      "id": 22,
+      "name_category": "Twice Song",
+      "title": "Ho!",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/22Ho!.mp3",
+      "duration": "188",
+      "lyrics": "" 
+	},
+    {
+      "id": 23,
+      "name_category": "Twice Song",
+      "title": "Hold Me Tight",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/23HoldMeTight.mp3",
+      "duration": "200",
+      "lyrics": "" 
+	},
+    {
+      "id": 24,
+      "name_category": "Twice Song",
+      "title": "I Want You Back",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/24IWantYouBack.mp3",
+      "duration": "199",
+      "lyrics": "" 
+	},
+    {
+      "id": 25,
+      "name_category": "Twice Song",
+      "title": "Im gonna be a star",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/25Imgonnabeastar.mp3",
+      "duration": "208",
+      "lyrics": "" 
+	},
+    {
+      "id": 26,
+      "name_category": "Twice Song",
+      "title": "Jaljayo Good Night",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/26JaljayoGoodNight.mp3",
+      "duration": "263",
+      "lyrics": "" 
+	},
+    {
+      "id": 27,
+      "name_category": "Twice Song",
+      "title": "Jelly Jelly",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/27JellyJelly.mp3",
+      "duration": "214",
+      "lyrics": "" 
+	},
+    {
+      "id": 28,
+      "name_category": "Twice Song",
+      "title": "Lalala",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/28Lalala.mp3",
+      "duration": "188",
+      "lyrics": "" 
+	},
+    {
+      "id": 29,
+      "name_category": "Twice Song",
+      "title": "Like A Fool",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/29LikeAFool.mp3",
+      "duration": "212",
+      "lyrics": "" 
+	},
+    {
+      "id": 30,
+      "name_category": "Twice Song",
+      "title": "Likey",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/30Likey.mp3",
+      "duration": "221",
+      "lyrics": "" 
+	},
+    {
+      "id": 31,
+      "name_category": "Twice Song",
+      "title": "Look At Me",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/31LookAtMe.mp3",
+      "duration": "193",
+      "lyrics": "" 
+	},
+    {
+      "id": 32,
+      "name_category": "Twice Song",
+      "title": "Love Line",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/32LoveLine.mp3",
+      "duration": "209",
+      "lyrics": "" 
+	},
+    {
+      "id": 33,
+      "name_category": "Twice Song",
+      "title": "Luv Me",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/33LuvMe.mp3",
+      "duration": "209",
+      "lyrics": "" 
+	},
+    {
+      "id": 34,
+      "name_category": "Twice Song",
+      "title": "Missing U",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/34MissingU.mp3",
+      "duration": "192",
+      "lyrics": "" 
+	},
+    {
+      "id": 35,
+      "name_category": "Twice Song",
+      "title": "Like Ohh Ahh",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/35LikeOhhAhh.mp3",
+      "duration": "271",
+      "lyrics": "" 
+	},
+    {
+      "id": 36,
+      "name_category": "Twice Song",
+      "title": "Pit A Pat",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/36PitAPat.mp3",
+      "duration": "204",
+      "lyrics": "" 
+	},
+    {
+      "id": 37,
+      "name_category": "Twice Song",
+      "title": "Ponytail",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/37Ponytail.mp3",
+      "duration": "211",
+      "lyrics": "" 
+	},
+    {
+      "id": 38,
+      "name_category": "Twice Song",
+      "title": "Precious Love",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/38PreciousLove.mp3",
+      "duration": "230",
+      "lyrics": "" 
+	},
+    {
+      "id": 39,
+      "name_category": "Twice Song",
+      "title": "Rollin",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/39Rollin.mp3",
+      "duration": "191",
+      "lyrics": "" 
+	},
+    {
+      "id": 40,
+      "name_category": "Twice Song",
+      "title": "Say Yes",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/40SayYes.mp3",
+      "duration": "183",
+      "lyrics": "" 
+	},
+    {
+      "id": 41,
+      "name_category": "Twice Song",
+      "title": "Signal",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/41Signal.mp3",
+      "duration": "258",
+      "lyrics": "" 
+	},
+    {
+      "id": 42,
+      "name_category": "Twice Song",
+      "title": "Say You Love Me",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/42SayYouLoveMe.mp3",
+      "duration": "213",
+      "lyrics": "" 
+	},
+    {
+      "id": 43,
+      "name_category": "Twice Song",
+      "title": "Shot Thru The Heart",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/43ShotThruTheHeart.mp3",
+      "duration": "208",
+      "lyrics": "" 
+	},
+    {
+      "id": 44,
+      "name_category": "Twice Song",
+      "title": "Someone Like Me",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/44SomeoneLikeMe.mp3",
+      "duration": "218",
+      "lyrics": "" 
+	},
+    {
+      "id": 45,
+      "name_category": "Twice Song",
+      "title": "Sweet Talker",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/45SweetTalker.mp3",
+      "duration": "207",
+      "lyrics": "" 
+	},
+    {
+      "id": 46,
+      "name_category": "Twice Song",
+      "title": "Three Times A Day",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/46ThreeTimesADay.mp3",
+      "duration": "193",
+      "lyrics": "" 
+	},
+    {
+      "id": 47,
+      "name_category": "Twice Song",
+      "title": "Touchdown",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/47Touchdown.mp3",
+      "duration": "204",
+      "lyrics": "" 
+	},
+    {
+      "id": 48,
+      "name_category": "Twice Song",
+      "title": "Truth",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/48Truth.mp3",
+      "duration": "216",
+      "lyrics": "" 
+	},
+    {
+      "id": 49,
+      "name_category": "Twice Song",
+      "title": "TT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/49TT.mp3",
+      "duration": "213",
+      "lyrics": "" 
+	},
+    {
+      "id": 50,
+      "name_category": "Twice Song",
+      "title": "Tuk Tok",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/50TukTok.mp3",
+      "duration": "210",
+      "lyrics": "" 
+	},
+    {
+      "id": 51,
+      "name_category": "Twice Song",
+      "title": "Turtle",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/51Turtle.mp3",
+      "duration": "205",
+      "lyrics": "" 
+	},
+    {
+      "id": 52,
+      "name_category": "Twice Song",
+      "title": "What Is Love",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/52WhatIsLove.mp3",
+      "duration": "223",
+      "lyrics": "" 
+	},
+    {
+      "id": 53,
+      "name_category": "Twice Song",
+      "title": "Wake Me Up",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/53WakeMeUp.mp3",
+      "duration": "239",
+      "lyrics": "" 
+	},
+    {
+      "id": 54,
+      "name_category": "Twice Song",
+      "title": "Wishing",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/54Wishing.mp3",
+      "duration": "272",
+      "lyrics": "" 
+	},
+    {
+      "id": 55,
+      "name_category": "Twice Song",
+      "title": "Woohoo",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/55Woohoo.mp3",
+      "duration": "205",
+      "lyrics": "" 
+	},
+    {
+      "id": 56,
+      "name_category": "Twice Song",
+      "title": "Wow",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/56Wow.mp3",
+      "duration": "181",
+      "lyrics": "" 
+	},
+    {
+      "id": 57,
+      "name_category": "Twice Song",
+      "title": "You In My Heart",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/57YouInMyHeart.mp3",
+      "duration": "220",
+      "lyrics": "" 
+	},
+    {
+      "id": 58,
+      "name_category": "Twice Song",
+      "title": "Yes or Yes",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/58YesorYes.mp3",
+      "duration": "268",
+      "lyrics": "" 
+	}
+  ]
+}
