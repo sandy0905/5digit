@@ -1,0 +1,291 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Blackpink Song",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Blackpink Song",
+      "title": "AS IF ITS YOUR LAST",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/AS_IF_ITS_YOUR_LAST.mp3",
+      "duration": "209",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 2,
+      "name_category": "Blackpink Song",
+      "title": "BET YOU WANNA",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/BET_YOU_WANNA.mp3",
+      "duration": "156",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 3,
+      "name_category": "Blackpink Song",
+      "title": "BOOMBAYAH",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/BOOMBAYAH.mp3",
+      "duration": "239",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 4,
+      "name_category": "Blackpink Song",
+      "title": "CRAZY OVER YOU",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/CRAZY_OVER_YOU.mp3",
+      "duration": "159",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 5,
+      "name_category": "Blackpink Song",
+      "title": "DDU-DUDDU-DU",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/DDU-DUDDU-DU.mp3",
+      "duration": "206",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 6,
+      "name_category": "Blackpink Song",
+      "title": "DONT KNOW WHAT TO DO",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/DONT_KNOW_WHAT_TO_DO.mp3",
+      "duration": "196",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 7,
+      "name_category": "Blackpink Song",
+      "title": "FOREVER YOUNG",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/FOREVER_YOUNG.mp3",
+      "duration": "232",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 8,
+      "name_category": "Blackpink Song",
+      "title": "GONE-ROSE",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/GONE-ROSE.mp3",
+      "duration": "207",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 9,
+      "name_category": "Blackpink Song",
+      "title": "HOPE NOT",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/HOPE_NOT.mp3",
+      "duration": "186",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 10,
+      "name_category": "Blackpink Song",
+      "title": "HOW YOU LIKE THAT",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/HOW_YOU_LIKE_THAT.mp3",
+      "duration": "175",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 11,
+      "name_category": "Blackpink Song",
+      "title": "ICE CREAM",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/ICE_CREAM.mp3",
+      "duration": "174",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 12,
+      "name_category": "Blackpink Song",
+      "title": "KICKIT",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/KICKIT.mp3",
+      "duration": "188",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 13,
+      "name_category": "Blackpink Song",
+      "title": "KILL THIS LOVE",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/KILL_THIS_LOVE.mp3",
+      "duration": "187",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 14,
+      "name_category": "Blackpink Song",
+      "title": "KISS AND MAKEUP",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/KISS_AND_MAKEUP.mp3",
+      "duration": "188",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 15,
+      "name_category": "Blackpink Song",
+      "title": "LALISA-LISA",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/LALISA-LISA.mp3",
+      "duration": "200",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 16,
+      "name_category": "Blackpink Song",
+      "title": "LOVE SICK GIRL",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/LOVE_SICK_GIRL.mp3",
+      "duration": "189",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 17,
+      "name_category": "Blackpink Song",
+      "title": "LOVE TO HATE ME",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/LOVE_TO_HATE_ME.mp3",
+      "duration": "169",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 18,
+      "name_category": "Blackpink Song",
+      "title": "MONEY-LISA",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/MONEY-LISA.mp3",
+      "duration": "168",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 19,
+      "name_category": "Blackpink Song",
+      "title": "PLAYING WITH FIRE",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/PLAYING_WITH_FIRE.mp3",
+      "duration": "193",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 20,
+      "name_category": "Blackpink Song",
+      "title": "PRETTY SAVAGE",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/PRETTY_SAVAGE.mp3",
+      "duration": "196",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 21,
+      "name_category": "Blackpink Song",
+      "title": "REALLY",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/REALLY.mp3",
+      "duration": "193",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 22,
+      "name_category": "Blackpink Song",
+      "title": "SEE U LATER",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/SEE_U_LATER.mp3",
+      "duration": "194",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 23,
+      "name_category": "Blackpink Song",
+      "title": "SOLO",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/SOLO.mp3",
+      "duration": "163",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 24,
+      "name_category": "Blackpink Song",
+      "title": "SOUR CANDY",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/SOUR_CANDY.mp3",
+      "duration": "157",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 25,
+      "name_category": "Blackpink Song",
+      "title": "SO HOT",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/SO_HOT.mp3",
+      "duration": "136",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 26,
+      "name_category": "Blackpink Song",
+      "title": "STAY",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/STAY.mp3",
+      "duration": "228",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 27,
+      "name_category": "Blackpink Song",
+      "title": "WHISTLE",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/WHISTLE.mp3",
+      "duration": "209",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 28,
+      "name_category": "Blackpink Song",
+      "title": "YOU NEVER KNOW",
+      "image": "file:///android_asset/Blackpink_Song/tray.jpg",
+      "link_mp3": "Blackpink_Song/YOU_NEVER_KNOW.mp3",
+      "duration": "226",
+      "lyrics": "Tidak Ada Lirik"
+    }
+  ]
+}
